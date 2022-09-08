@@ -25,6 +25,6 @@
   <a href = "mailto:contatobiancafer242@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-ferreira-7604311b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Biafcampos/Biafcampos/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+  ![Snake animation]([https://github.com/Biafcampos/Biafcampos/blob/main/.github/workflows/github-contribution-grid-snake.svg](https://github.com/biafcampos/biafcampos/blob/output/github-contribution-grid-snake.svg))
  
 </div>
